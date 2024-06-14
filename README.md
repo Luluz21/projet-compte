@@ -1,4 +1,7 @@
 # projet-compte
+
+[FRANCAIS]
+
 projet d'un code qui va permettre de se créer un compte en local 
 le code créer un fichier en json sur ta machine a un emplacement bien précis, et qui va sauvegarder tes identifiants et mots de passes
 il y aura 3 options, 
@@ -8,7 +11,7 @@ il y aura 3 options,
 
 une suite du code est prévu pour créer un jeu vidéo ou un application
 
-ENGLISH
+[ENGLISH]
 
 draft code that will allow you to create an account locally
 the code creates a json file on your machine in a very specific location, and which will save your usernames and passwords
